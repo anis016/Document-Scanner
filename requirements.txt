@@ -1,6 +1,6 @@
 certifi==2018.4.16
 chardet==3.0.4
-Django==2.0.5
+Django==2.2.10
 idna==2.6
 numpy==1.14.3
 opencv-python==3.4.1.15
